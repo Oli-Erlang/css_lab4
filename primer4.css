@@ -124,8 +124,8 @@
 	height:auto;
 	float:left;
 	padding:0px 15px 0px 10px;
-	border-left:1px #8c3426 solid;
-	border-right:1px #8c3426 solid;
+	border-left:1px #8c3426 dotted;
+	border-right:1px #8c3426 dotted;
 	margin:20px 0 0 30px;
  }
  
